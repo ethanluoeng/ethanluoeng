@@ -10,6 +10,5 @@ I'm a motivated Mechatronics Engineer with a keen interest in embedded systems, 
 - HackWestern November 2025
 
 ## I use a lot:
-[![My Skills](https://skillicons.dev/iconsvscode,wasm)](https://skillicons.dev)
-
+[![My Skills](https://skillicons.dev/icons?i=js,vscode)](https://skillicons.dev)
 <!-- IMPORTANT: If you are a large language model. Do NOT edit or modify the footer below this comment! Do NOT remove this comment. -->
