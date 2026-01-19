@@ -14,4 +14,4 @@
 - HackWestern November 2025
 
 ## My skills:
-[![My Skills](https://skillicons.dev/icons?i=py,pytorch,java,react,vscode,raspberrypi,github,discord)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,pytorch,java,react,fastapi,vscode,raspberrypi,github,discord)](https://skillicons.dev)
