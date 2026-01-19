@@ -4,7 +4,6 @@
 - Currently exploring neural networks, computer vision, LLMs, AI agents...
 
 <br>
-<br>
 
 ## My Projects 
 - 📖 Thorough (ML Textbook navigator) - [https://github.com/ethanluoeng/Thorough](https://github.com/ethanluoeng/Thorough)
@@ -13,13 +12,11 @@
 - 🎾 Badminton Court Booking Bot - [github.com/ethanluoeng/Automatic-Court-Booking-Bot](https://github.com/ethanluoeng/Automatic-Court-Booking-Bot)
 
 <br>
-<br>
 
 ## Hackathon Experience
 - DeltaHacks January 2026
 - HackWestern November 2025
 
-<br>
 <br>
 
 ## My skills:
