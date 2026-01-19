@@ -5,7 +5,7 @@
 
 <br>
 
-## My Projects 
+### My Projects 
 - 📖 Thorough (ML Textbook navigator) - [https://github.com/ethanluoeng/Thorough](https://github.com/ethanluoeng/Thorough)
 - 🤖 AI Whale Chatbot - [github.com/ethanluoeng/Wise-Whale-Chatbot](https://github.com/ethanluoeng/Wise-Whale-Chatbot)
 - 🚗 Raspberry Pi Robotic Car - [github.com/ethanluoeng/Raspberry-Pi-Car](https://github.com/ethanluoeng/Raspberry-Pi-Car) 
@@ -13,11 +13,11 @@
 
 <br>
 
-## Hackathon Experience
+### Hackathon Experience
 - DeltaHacks January 2026
 - HackWestern November 2025
 
 <br>
 
-## My skills:
+### My skills:
 [![My Skills](https://skillicons.dev/icons?i=py,pytorch,java,react,fastapi,vscode,raspberrypi,github,discord)](https://skillicons.dev)
