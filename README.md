@@ -1,4 +1,4 @@
-### Hi, I'm Ethan 👋
+# Hi, I'm Ethan 👋
 - 2nd year Uni
 - Interested in robotics, embedded systems, and machine learning
 - Currently exploring neural networks, computer vision, LLMs, AI agents...
