@@ -6,7 +6,7 @@
 <br>
 
 ### My Projects 
-- 📖 Thorough (ML Textbook navigator) - [https://github.com/ethanluoeng/Thorough](https://github.com/ethanluoeng/Thorough)
+- 📖 Thorough (RAG Textbook navigator) - [https://github.com/ethanluoeng/Thorough](https://github.com/ethanluoeng/Thorough)
 - 🐋 AI Whale Chatbot - [github.com/ethanluoeng/Wise-Whale-Chatbot](https://github.com/ethanluoeng/Wise-Whale-Chatbot)
 - 🚗 Raspberry Pi Robotic Car - [github.com/ethanluoeng/Raspberry-Pi-Car](https://github.com/ethanluoeng/Raspberry-Pi-Car) 
 - 🎾 Badminton Court Booking Bot - [github.com/ethanluoeng/Automatic-Court-Booking-Bot](https://github.com/ethanluoeng/Automatic-Court-Booking-Bot)
