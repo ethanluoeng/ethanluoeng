@@ -8,7 +8,7 @@
 <br>
 
 ### My Projects 
-- 🐶 Dog Communication device  |  Long-range device for communicating with your dog when they are far away. Many cool features on the way
+- 🐶 Dog Communication device  |  Long-range device for communicating with your dog when they are far away. Many more cool features on the way
 - 💀 Firmware 60 Day Challenge  |  Using an 100% AI generated 2-month plan to learn firmware on the STM32 as quickly as possible
 - 📖 Thorough (RAG Textbook navigator)  |  Searches your textbook for relevant sections, so that you don't have to
 - 🐋 AI Whale Chatbot  |  This ones not very impressive, but I dig the "whale" personality and it gives good advice sometimes 
