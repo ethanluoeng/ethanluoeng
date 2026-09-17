@@ -12,7 +12,7 @@
 - 💀 Firmware 60 Day Challenge  |  Using an 100% AI generated 2-month plan to learn firmware on the STM32 as quickly as possible
 - 📖 Thorough (RAG Textbook navigator)  |  Searches your textbook for relevant sections, so that you don't have to
 - 🐋 AI Whale Chatbot  |  This ones not very impressive, but I like the "wise whale" personality and it gives good advice sometimes 
-- 🎾 Badminton Court Booking Bot  |  Automated the ticket booking process to secure tickets faster 
+- 🎾 Badminton Court Booking Bot  |  Automated the ticket booking process at my local recreation center to secure tickets faster 
 
 <br>
 
