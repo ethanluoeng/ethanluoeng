@@ -3,5 +3,7 @@
     <img src="preview.svg" width="100%" alt="Prove you're human: select the ISS squares">
   </a>
   <br>
-  <sub>click to prove you're human</sub>
+  <a href="https://<your-username>.github.io/iss-captcha/">
+    <img src="caption.svg" height="30" alt="click to prove you're human">
+  </a>
 </p>
