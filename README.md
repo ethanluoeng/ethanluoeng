@@ -1,3 +1,9 @@
+<h1 align="center"># Hey, I'm Ethan 👋</h1>
+
+<p align="center">
+  <b>Mechatronics Engineering @ Western University</b> · Embedded Systems · Robotics · AI
+</p>
+
 <p align="center">
   <a href="https://ethanluoeng.github.io/iss-captcha/">
     <img src="preview.svg" width="100%" alt="Prove you're human: select the ISS squares">
