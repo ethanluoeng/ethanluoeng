@@ -7,7 +7,7 @@
 <br>
 
 - I enjoy working on anything related to embedded systems, firmware, robotics or aviation
-- I use AI in my workflow. I find that it's best at multiplying my productivity, instead of completely automating things
+- I use AI in my workflow. I find that it's actually best at multiplying my productivity, instead of completely automating things
 - My skills are C/C++, Rust, Python, ARM processors, RTOS, Embedded Linux Environments, and Claude.ai
 
 <br>
