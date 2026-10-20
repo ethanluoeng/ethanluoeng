@@ -1,9 +1,15 @@
-## Hey, I'm Ethan 👋
-- **Mechatronics Engineering Student @ Western University, Software Team Lead @ [Western Aero Design](https://github.com/UWO-Aero-Design)**
-- **I program and build stuff with embedded systems!**
-- **Interested in firmware, microcontrollers/PCBs, robotics, aviation, and using AI to help turn my ideas into reality.**
-- **My skills are C/C++, Rust, Python, ARM processors, RTOS, Embedded Linux Environments, and Claude.ai**
----
+<h1 align="center">Hey, I'm Ethan</h1>
+<div align="center">
+  <b>Mechatronics Engineering Student @ Western University</b>
+  <br>
+  <b>Software Team Lead @ <a href="https://github.com/UWO-Aero-Design">Western Aero Design</a></b>
+</div>
+<br>
+
+- I enjoy working with embedded systems, firmware, robotics and aviation
+- I use AI in my workflow. I find that it's actually best at multiplying productivity, instead of completely automating.
+- My skills are C/C++, Rust, Python, ARM processors, RTOS, Embedded Linux Environments, and Claude.ai
+
 <br>
 
 <p align="center">
