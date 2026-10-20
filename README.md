@@ -11,7 +11,7 @@
 - I use AI in my workflow. I find that it's actually best at multiplying my productivity, instead of completely automating things
 - My skills are C/C++, Rust, Python, ARM processors, RTOS, Embedded Linux Environments, and Claude.ai
 
-<br><br>
+<br>
 
 <p align="center">
   <a href="https://ethanluoeng.github.io/iss-captcha/">
