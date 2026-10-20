@@ -1,8 +1,10 @@
-<h1 align="center"># Hey, I'm Ethan 👋</h1>
+## Hey, I'm Ethan 👋
+- Mechatronics Engineering Student @ Western University, Software Team Lead @ [Western Aero Design](https://github.com/UWO-Aero-Design)
+- I program and build stuff with embedded systems!
+- Interested in firmware, microcontrollers/PCBs, robotics, aviation, as well as using AI to help turn my ideas into a reality.
+- My favourite tools are C/C++, Rust, Python, ARM processors, RTOS, Embedded Linux Environments, and Claude.ai
 
-<p align="center">
-  <b>Mechatronics Engineering @ Western University</b> · Embedded Systems · Robotics · AI
-</p>
+<br>
 
 <p align="center">
   <a href="https://ethanluoeng.github.io/iss-captcha/">
